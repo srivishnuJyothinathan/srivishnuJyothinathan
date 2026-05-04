@@ -57,6 +57,13 @@ I enjoy building real-world projects that solve practical problems and improve u
 
 ---
 
+### 🔧 Version Control
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+
+---
+
 ## 🚀 Projects
 
 ### 🤖 College Chatbot
@@ -70,12 +77,6 @@ I enjoy building real-world projects that solve practical problems and improve u
 * AI-based complaint management system
 * Uses ML to prioritize issues (High/Medium/Low)
 * Includes admin dashboard + analytics
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true)
 
 ---
 
