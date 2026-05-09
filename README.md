@@ -1,4 +1,5 @@
-<img width="308" height="250" alt="Open Screenshot 2025-06-07 at 8 29 19 AM pdf" src="https://github.com/user-attachments/assets/15b33c67-0d95-4f84-9954-0e5fb38901bf" />
+<img width="4152" height="6240" alt="tempImageOpBS2q" src="https://github.com/user-attachments/assets/b053e4cf-9a3a-4e5f-b8a7-9dd6637688f4" />
+
 
 # Hi, I'm Srivishnu J 👋
 
