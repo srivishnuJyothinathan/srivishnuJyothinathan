@@ -1,4 +1,4 @@
-<img width="4152" height="6240" alt="tempImageOpBS2q" src="https://github.com/user-attachments/assets/b053e4cf-9a3a-4e5f-b8a7-9dd6637688f4" />
+<img width="1152" height="1240" alt="tempImageOpBS2q" src="https://github.com/user-attachments/assets/b053e4cf-9a3a-4e5f-b8a7-9dd6637688f4" />
 
 
 # Hi, I'm Srivishnu J 👋
